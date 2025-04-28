@@ -1,0 +1,15 @@
+date,trip_count,avg_fare,avg_distance,avg_passenger_count,total_revenue,day_of_week,day_name,month,month_name,7d_ma,arima_anomaly,prophet_anomaly,iqr_anomaly,is_anomaly
+2024-01-01,75529,22.19614571886295,4.655885024295304,1.5520435727288742,1676452.69,Monday,Monday,January,January,,True,False,False,True
+2024-02-01,3,19.333333333333332,4.083333333333333,2.3333333333333335,58.0,Thursday,Thursday,February,February,82727.85714285714,True,True,True,True
+2024-03-01,2,25.75,5.550000000000001,1.0,51.5,Friday,Friday,March,March,90365.28571428571,True,True,True,True
+2024-04-01,2,33.1,7.6,1.0,66.2,Monday,Monday,April,April,96623.0,True,True,True,True
+2024-05-01,1,7.9,1.01,6.0,7.9,Wednesday,Wednesday,May,May,92017.71428571429,True,True,True,True
+2024-06-01,12,21.724999999999998,4.055833333333333,1.0,260.7,Saturday,Saturday,June,June,86610.71428571429,True,True,True,True
+2024-07-01,3,20.03333333333333,4.390000000000001,4.0,60.099999999999994,Monday,Monday,July,July,96806.57142857143,True,True,True,True
+2024-08-01,29,21.548275862068966,4.044827586206896,1.0,624.9,Thursday,Thursday,August,August,80785.0,True,True,True,True
+2024-09-01,30,19.436666666666667,3.6866666666666665,1.1333333333333333,583.1,Sunday,Sunday,September,September,78075.71428571429,True,True,True,True
+2024-09-10,2,11.05,1.2449999999999999,1.0,22.1,Tuesday,Tuesday,September,September,99234.14285714286,True,True,True,True
+2024-10-01,15,24.533333333333335,4.774666666666667,1.0,368.0,Tuesday,Tuesday,October,October,102610.57142857143,True,True,True,True
+2024-11-01,26,22.65,4.287307692307692,1.2692307692307692,588.9,Friday,Friday,November,November,105564.28571428571,True,True,True,True
+2024-11-14,1,12.8,2.07,1.0,12.8,Thursday,Thursday,November,November,101853.42857142857,True,True,True,True
+2024-12-01,13,14.576923076923077,2.276153846153846,1.0,189.5,Sunday,Sunday,December,December,81206.71428571429,True,True,True,True
